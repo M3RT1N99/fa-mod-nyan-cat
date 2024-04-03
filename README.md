@@ -24,7 +24,7 @@
 
 <img src="banner.png" />
 
-This repository contains all assets for the 'Nyan cat' Seasonal event on the 1st of April of 2024. The repository is a template that you can use to create your own mods. For additional resources and assistance you can visit the Discord server that is linked above. It has an extensive channel with resources called [Modification Resources](https://discord.gg/eQZRwhAP) that lists all the resources you may need on your modding journey!
+This repository contains all assets for the ['Nyan cat' Seasonal Event](https://github.com/FAForever/fa/pull/6027) on the 1st of April of 2024. The repository is a template that you can use to create your own mods. For additional resources and assistance you can visit the Discord server that is linked above. It has an extensive channel with resources called [Modification Resources](https://discord.gg/eQZRwhAP) that lists all the resources you may need on your modding journey!
 
 We have permission to use content related to [Nyan Cat](https://www.nyan.cat/) for non-commercial usage on the 25th of September, 2022. Do give them a like and a subscribe on [YouTube](https://www.youtube.com/nyancat).
 
