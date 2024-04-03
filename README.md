@@ -20,8 +20,6 @@
   
 </div>
 
----
-
 # 'Nyan cat' Seasonal Event
 
 <img src="banner.png" />
