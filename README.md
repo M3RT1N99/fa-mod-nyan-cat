@@ -36,6 +36,5 @@ We have permission to use content related to [Nyan Cat](https://www.nyan.cat/) f
 
 ### Lua plugin
 
- - [FA Lua intellisense extension](https://github.com/FAForever/fa-lua-vscode-extension)
- - [FA Lua intellisense language server](https://github.com/FAForever/fa-lua-language-server)
-
+- [FA Lua intellisense extension](https://github.com/FAForever/fa-lua-vscode-extension)
+- [FA Lua intellisense language server](https://github.com/FAForever/fa-lua-language-server)
