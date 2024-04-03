@@ -31,14 +31,14 @@ do
         OnCreate = function(self)
             local vx, vy, vz, w = unpack(self:GetOrientation())
             if vz >= 0 then
-                self.FxTrails = { 
+                self.FxTrails = {
                     '/mods/fa-mod-nyan-cat/effects/emitters/nyan_trail.bp',
-                    '/mods/fa-mod-nyan-cat/effects/emitters/nyan_01.bp' 
+                    '/mods/fa-mod-nyan-cat/effects/emitters/nyan_01.bp'
                 }
             else
-                self.FxTrails = { 
+                self.FxTrails = {
                     '/mods/fa-mod-nyan-cat/effects/emitters/nyan_trail.bp',
-                    '/mods/fa-mod-nyan-cat/effects/emitters/nyan_02.bp' 
+                    '/mods/fa-mod-nyan-cat/effects/emitters/nyan_02.bp'
                 }
             end
 
@@ -48,5 +48,3 @@ do
 
     TypeClass = CDFCannonMolecular01
 end
-
-
