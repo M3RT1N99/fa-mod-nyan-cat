@@ -6,6 +6,7 @@ uid = "nyan-cat-01"
 icon = "/mods/fa-mod-nyan-cat/icon.png"
 copyright = "MIT"
 url = "https://github.com/FAForever/fa-mod-nyan-cat"
+icon = "/mods/fa-mod-nyan-cat/icon.png"
 selectable = true
 enabled = true
 exclusive = false
