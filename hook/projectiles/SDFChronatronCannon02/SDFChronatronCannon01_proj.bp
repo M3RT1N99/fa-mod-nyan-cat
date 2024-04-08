@@ -1,0 +1,25 @@
+ProjectileBlueprint {
+    Merge = true,
+    Audio = {
+        ExistLoop = Sound {
+            Bank = 'nyan',
+            Cue = 'loop',
+            LodCutoff = 'DefaultLodCutoff',
+        },
+        Impact = Sound {
+            Bank = 'nyan',
+            Cue = 'impact',
+            LodCutoff = 'Weapon_LodCutoff',
+        },
+        ImpactTerrain = Sound {
+            Bank = 'nyan',
+            Cue = 'impact',
+            LodCutoff = 'Weapon_LodCutoff',
+        },
+        ImpactWater = Sound {
+            Bank = 'nyan',
+            Cue = 'impact',
+            LodCutoff = 'Weapon_LodCutoff',
+        },
+    },
+}
