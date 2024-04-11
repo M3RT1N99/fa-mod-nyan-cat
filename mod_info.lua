@@ -1,10 +1,10 @@
 name = "Nyan Cat"
 version = 1
 author = "Deribus, M3RT1N"
-description = "Reproduces the 'Nyan Cat' seasonal event used by the 1st aprils fools prank of 2024. Only compatible with FAForever."
-uid = "nyan-cat-01"
+description = "Reproduces the 'Nyan Cat' seasonal event used by the 1st aprils fools prank of 2024. Only compatible with FAForever. Version with Music"
+uid = "nyan-cat-music-01"
 icon = "/mods/fa-mod-nyan-cat/icon.png"
-copyright = "MIT"
+copyright = "MIT, aidn.jp"
 url = "https://github.com/FAForever/fa-mod-nyan-cat"
 icon = "/mods/fa-mod-nyan-cat/icon.png"
 selectable = true
