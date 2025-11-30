@@ -25,9 +25,9 @@ do
     -- Nyan cat seasonal event
     -- For those living under a rock, see also: https://www.nyan.cat/
 
-    local oldTDFOverCharge01 = TDFOverCharge01
-    TDFOverCharge01 = Class(oldTDFOverCharge01) {
-        ---@param self TDFOverCharge01
+    local oldADFOverCharge01 = ADFOverCharge01
+    ADFOverCharge01 = Class(oldADFOverCharge01) {
+        ---@param self ADFOverCharge01
         OnCreate = function(self)
             local vx, vy, vz, w = unpack(self:GetOrientation())
             if vz >= 0 then
@@ -42,13 +42,13 @@ do
                 }
             end
 
-            oldTDFOverCharge01.OnCreate(self)
+            oldADFOverCharge01.OnCreate(self)
 
             -- engine doesn't play this automagically for us
             self:PlaySound(self.Blueprint.Audio.ExistLoop)
         end,
     }
 
-    TypeClass = TDFOverCharge01
+    TypeClass = ADFOverCharge01
 
 end
